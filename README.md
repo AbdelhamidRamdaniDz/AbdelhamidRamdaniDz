@@ -166,12 +166,19 @@ Clean Architecture
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/AbdelhamidRamdaniDz/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhamidRamdaniDz&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <a href="https://github.com/AbdelhamidRamdaniDz/Ziain-Ashour-Incubator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhamidRamdaniDz&repo=Ziain-Ashour-Incubator&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/AbdelhamidRamdaniDz/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhamidRamdaniDz&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <a href="https://github.com/AbdelhamidRamdaniDz/TelegramFileVault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhamidRamdaniDz&repo=TelegramFileVault&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
+
+  <a href="https://github.com/AbdelhamidRamdaniDz/QuranBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhamidRamdaniDz&repo=QuranBot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+
 </div>
 
 ---
